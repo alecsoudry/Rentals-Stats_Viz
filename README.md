@@ -1,1 +1,1 @@
-# Rentals-Stats_Viz
+These scripts insert data from a csv file on housing rental information into a MS SQL server, and then use perform summary statistics and visualizations using the Pandas, Numpy, Seaborn, and MatPlotLib libraries.
